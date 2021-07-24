@@ -1,0 +1,97 @@
+#shortcuticon{
+font-size: 40px;
+}
+.shortcut{
+position: fixed;
+bottom: 25px;
+right: 10px;
+background-color: #333333;
+height: 40px;
+width: 40px;
+color: white;
+border-radius: 5px;
+opacity: 0.2;
+}
+.gopagecircle{
+background-color: #333333;
+height: 28px;
+width: 28px;
+padding: 10px;
+border-radius: 100%;
+float: left;
+margin-left: 10px;
+margin-top: 10px;
+}
+.storyart{
+height: 100%;
+width: 100%;
+max-height: 300px;
+max-width: 300px;
+border-radius: 25px;
+}
+.page{
+background-color: 222222;
+height: 100%;
+width: 100%;
+max-width: 480px;
+border-radius: 5px;
+color: white;
+}
+body{
+background-color: 111111;
+overflow: hidden;
+}
+html {
+  scroll-behavior: smooth;
+  font-family: 'Open Sans Condensed', sans-serif;
+  
+}
+.kapak{
+margin-top: 75px;
+margin-bottom: 75px;
+height: 600px;
+max-width: 400px;
+width: 100%;
+border-radius: 5px;
+background-image: url("https://media.discordapp.net/attachments/827433788186820620/867729137790877727/Project_16.png");
+background-size: cover;
+position: relative;
+}
+.start-button{
+background-color: #333333;
+border-radius: 100px;
+height: 32px;
+width: 200px;
+font-size: 20px;
+padding-top: 10px;
+position: absolute;
+bottom: 20px;
+left: 100px;
+}
+.material-icons{
+font-size: 20px;
+}
+a{
+color: white;
+text-decoration: none;
+}
+.down-button{
+padding-top: 10px;
+position: relative;
+left: 0px;
+font-size: 16px;
+margin-top: -75px;
+}
+.up-button{
+padding-top: 10px;
+position: relative;
+left: 0px;
+top: -30px;
+font-size: 16px;
+margin-top: -25px;
+}
+.paragraph{
+padding: 20px;
+margin-top: -75px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap
